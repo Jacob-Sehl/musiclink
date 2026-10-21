@@ -39,7 +39,7 @@ yarn-error.*
 example
 
 # generated native folders
-/ios
-/android
+musiclink-app/ios
+musiclink-app/android
 
 .claude/
